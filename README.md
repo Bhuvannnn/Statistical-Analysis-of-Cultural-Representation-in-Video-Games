@@ -125,6 +125,6 @@ This study investigates **how cultural representation in video games influences 
 │── 📜 results_summary.pdf (Formatted Report with Findings) -->
 
 ## Future Work
-🚀 Expanding the study to a larger & more diverse participant pool.
-🚀 Integrating Machine Learning to predict player engagement based on cultural alignment.
-🚀 Exploring real-time anxiety measurement techniques using biometric data.
+- 🚀 Expanding the study to a larger & more diverse participant pool.
+- 🚀 Integrating Machine Learning to predict player engagement based on cultural alignment.
+- 🚀 Exploring real-time anxiety measurement techniques using biometric data.
